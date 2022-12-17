@@ -1,5 +1,4 @@
 import React from 'react'
-import Card from './Card';
 import {useState} from 'react';
 import Button from './Button';
 import GiveRating from './GiveRating';
